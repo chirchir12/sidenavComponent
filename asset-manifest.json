@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chirchir12/sidenavComponent/static/css/main.dcd44cd3.chunk.css",
+    "main.js": "/chirchir12/sidenavComponent/static/js/main.969c23f6.chunk.js",
+    "main.js.map": "/chirchir12/sidenavComponent/static/js/main.969c23f6.chunk.js.map",
+    "runtime-main.js": "/chirchir12/sidenavComponent/static/js/runtime-main.0bcbcdc9.js",
+    "runtime-main.js.map": "/chirchir12/sidenavComponent/static/js/runtime-main.0bcbcdc9.js.map",
+    "static/js/2.44beccfb.chunk.js": "/chirchir12/sidenavComponent/static/js/2.44beccfb.chunk.js",
+    "static/js/2.44beccfb.chunk.js.map": "/chirchir12/sidenavComponent/static/js/2.44beccfb.chunk.js.map",
+    "index.html": "/chirchir12/sidenavComponent/index.html",
+    "precache-manifest.f801d5c8b5cb7b88f8da8e296461f75a.js": "/chirchir12/sidenavComponent/precache-manifest.f801d5c8b5cb7b88f8da8e296461f75a.js",
+    "service-worker.js": "/chirchir12/sidenavComponent/service-worker.js",
+    "static/css/main.dcd44cd3.chunk.css.map": "/chirchir12/sidenavComponent/static/css/main.dcd44cd3.chunk.css.map",
+    "static/js/2.44beccfb.chunk.js.LICENSE.txt": "/chirchir12/sidenavComponent/static/js/2.44beccfb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bcbcdc9.js",
+    "static/js/2.44beccfb.chunk.js",
+    "static/css/main.dcd44cd3.chunk.css",
+    "static/js/main.969c23f6.chunk.js"
+  ]
+}
